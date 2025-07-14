@@ -4,28 +4,25 @@
 
 <br>
 
-<table width="100% style="border-color: black;">
+<table width="100%" style="border-collapse: collapse; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);">
   <tr>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Coding Illustration" width="300">
+    <td width="40%" align="center" style="padding: 30px 20px; background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 12px 0 0 12px;">
+      <img 
+        src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+        alt="Coding Illustration" 
+        width="300"
+        style="border-radius: 8px; filter: brightness(1.1);"
+      >
     </td>
-    <td width="60%" valign="middle">
-      <h3>
-        <b>Estudiante avanzado de Ingeniería en Informática en la Universidad de Mendoza, enfocado en la construcción de soluciones de software escalables y resilientes, y apasionado por la intersección entre el desarrollo backend, la inteligencia artificial y la arquitectura en la nube.</b>
+    <td width="60%" valign="middle" style="padding: 30px 25px; background: linear-gradient(135deg, #f8fafc, #ffffff);">
+      <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 1.25rem; line-height: 1.6; color: #1a202c;">
+        <b>🎓 Estudiante avanzado de Ingeniería en Informática en la Universidad de Mendoza, enfocado en la construcción de soluciones de software escalables y resilientes, y apasionado por la intersección entre el desarrollo backend, la inteligencia artificial y la arquitectura en la nube. ☁️</b>
       </h3>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Cyber Animation" style="width: 100%; height: 80px; object-fit: cover; position: fixed; bottom: 0; left: 0; z-index: -1; opacity: 0.3;">
-</div>
 
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
-<strong>MATRIZ DE COMPETENCIAS TÉCNICAS</strong>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-</p>
 
 <!-- 🔥 Backend -->
 <div align="center">
@@ -191,95 +188,67 @@
 </table>
 
 <!-- ⚙️ Principios de Desarrollo -->
+<!-- 🏗️ Patrones de Diseño y Otros -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=500&height=50&lines=⚙️+Principios+de+Desarrollo+⚙️" alt="Principios Title" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=500&height=50&lines=🏗️+Patrones+de+Diseño+y+Otros+🏗️" 
+    alt="Patrones de Diseño y Otros" 
+  />
 </div>
-<table align="center" style="border: 2px solid #000000;">
-  <tr>
-    <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); color: #00FFFF; padding: 15px;">
-      <div style="font-size: 24px; margin-bottom: 8px;">🚀</div>
-      <strong>KISS</strong><br>
-      <small style="color: #888;">Keep It Simple</small>
-    </td>
-    <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); color: #00FFFF; padding: 15px;">
-      <div style="font-size: 24px; margin-bottom: 8px;">🔄</div>
-      <strong>DRY</strong><br>
-      <small style="color: #888;">Don't Repeat Yourself</small>
-    </td>
-    <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); color: #00FFFF; padding: 15px;">
-      <div style="font-size: 24px; margin-bottom: 8px;">⚡</div>
-      <strong>YAGNI</strong><br>
-      <small style="color: #888;">You Aren't Gonna Need It</small>
-    </td>
-    <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); color: #00FFFF; padding: 15px;">
-      <div style="font-size: 24px; margin-bottom: 8px;">🎯</div>
-      <strong>SRP</strong><br>
-      <small style="color: #888;">Single Responsibility</small>
-    </td>
-  </tr>
-</table>
-
-<!-- 🏗️ Patrones de Diseño -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=500&height=50&lines=🏗️+Patrones+de+Diseño+🏗️" alt="Patrones de Diseño Title" />
-</div>
-<table align="center" style="border: 2px solid #000000;">
+<table align="center" style="border: 2px solid #000000; border-collapse: collapse;">
   <tr>
     <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #2d1b69 0%, #1a1a2e 100%); color: #FF0080; padding: 15px;">
       <div style="font-size: 24px; margin-bottom: 8px;">🔒</div>
-      <strong>Singleton</strong><br>
-      <small style="color: #ccc;">Una instancia única</small>
+      <strong>Singleton</strong>
     </td>
     <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #2d1b69 0%, #1a1a2e 100%); color: #FF0080; padding: 15px;">
       <div style="font-size: 24px; margin-bottom: 8px;">🏭</div>
-      <strong>Factory Method</strong><br>
-      <small style="color: #ccc;">Creación de objetos</small>
+      <strong>Factory Method</strong>
     </td>
     <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #2d1b69 0%, #1a1a2e 100%); color: #FF0080; padding: 15px;">
       <div style="font-size: 24px; margin-bottom: 8px;">🎨</div>
-      <strong>Decorator</strong><br>
-      <small style="color: #ccc;">Extiende funcionalidad</small>
+      <strong>Decorator</strong>
+    </td>
+    <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #4a1a3a 0%, #2d1b29 100%); color: #FFD700; padding: 15px;">
+      <div style="font-size: 24px; margin-bottom: 8px;">🧪</div>
+      <strong>Abstract Method</strong>
     </td>
   </tr>
-</table>
-
-<!-- 🏛️ Patrones de Arquitectura -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=500&height=50&lines=🏛️+Patrones+de+Arquitectura+🏛️" alt="Patrones de Arquitectura Title" />
-</div>
-<table align="center" style="border: 2px solid #000000;">
   <tr>
     <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #0f3460 0%, #16213e 100%); color: #00FF80; padding: 15px;">
       <div style="font-size: 24px; margin-bottom: 8px;">🏗️</div>
-      <strong>MVC</strong><br>
-      <small style="color: #aaa;">Model-View-Controller</small>
+      <strong>MVC</strong>
     </td>
     <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #0f3460 0%, #16213e 100%); color: #00FF80; padding: 15px;">
       <div style="font-size: 24px; margin-bottom: 8px;">📚</div>
-      <strong>Repository</strong><br>
-      <small style="color: #aaa;">Abstracción de datos</small>
-    </td>
-  </tr>
-</table>
-
-<!-- 🧬 Conceptos Avanzados -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=500&height=50&lines=🧬+Conceptos+Avanzados+🧬" alt="Conceptos Avanzados Title" />
-</div>
-<table align="center" style="border: 2px solid #000000;">
-  <tr>
-    <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #4a1a3a 0%, #2d1b29 100%); color: #FFD700; padding: 15px;">
-      <div style="font-size: 24px; margin-bottom: 8px;">🧪</div>
-      <strong>Abstract Method</strong><br>
-      <small style="color: #bbb;">Métodos abstractos</small>
+      <strong>Repository</strong>
     </td>
     <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); color: #00FFFF; padding: 15px;">
       <div style="font-size: 24px; margin-bottom: 8px;">🔧</div>
-      <strong>SOLID</strong><br>
-      <small style="color: #888;">Principios sólidos</small>
+      <strong>SOLID</strong>
+    </td>
+    <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); color: #00FFFF; padding: 15px;">
+      <div style="font-size: 24px; margin-bottom: 8px;">🚀</div>
+      <strong>KISS</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); color: #00FFFF; padding: 15px;">
+      <div style="font-size: 24px; margin-bottom: 8px;">🔄</div>
+      <strong>DRY</strong>
+    </td>
+    <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); color: #00FFFF; padding: 15px;">
+      <div style="font-size: 24px; margin-bottom: 8px;">⚡</div>
+      <strong>YAGNI</strong>
+    </td>
+    <td align="center" width="120" style="border: 1px solid #000000; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); color: #00FFFF; padding: 15px;">
+      <div style="font-size: 24px; margin-bottom: 8px;">🎯</div>
+      <strong>SRP</strong>
+    </td>
+    <td></td>
+  </tr>
 </table>
+
 
 <!-- 📊 GitHub Stats -->
 <p align="center">
@@ -297,7 +266,7 @@
 <!-- 🔗 Conexión -->
 <p align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px">
-<strong>CONEXIÓN</strong>
+<strong>CONTACTO</strong>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px">
 </p>
 <div align="center">
@@ -308,6 +277,5 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </div>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagen completa" width="100% height="5%>
 
 
