@@ -4,25 +4,19 @@
 
 <br>
 
-<table width="100%" style="border-collapse: collapse; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);">
-  <tr>
-    <td width="40%" align="center" style="padding: 30px 20px; background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 12px 0 0 12px;">
-      <img 
-        src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-        alt="Coding Illustration" 
-        width="300"
-        style="border-radius: 8px; filter: brightness(1.1);"
-      >
-    </td>
-    <td width="60%" valign="middle" style="padding: 30px 25px; background: linear-gradient(135deg, #f8fafc, #ffffff);">
-      <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 1.25rem; line-height: 1.6; color: #1a202c;">
-        <b>🎓 Estudiante avanzado de Ingeniería en Informática en la Universidad de Mendoza, enfocado en la construcción de soluciones de software escalables y resilientes, y apasionado por la intersección entre el desarrollo backend, la inteligencia artificial y la arquitectura en la nube. ☁️</b>
-      </h3>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img align="left" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Coding Illustration" width="300">
+  <br>
+  <br>
+  
+  <h3>🎓 Estudiante avanzado de Ingeniería en Informática en la Universidad de Mendoza, enfocado en la construcción de soluciones de software escalables y resilientes, y apasionado por la intersección entre el desarrollo backend, la inteligencia artificial y la arquitectura en la nube. ☁️</h3>
+</div>
 
 
+<br>
+<br>
+<br>
+<br>
 
 <!-- 🔥 Backend -->
 <div align="center">
