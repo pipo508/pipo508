@@ -1,34 +1,35 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/7NoP3v6dG1T2cx502M/giphy.gif" width="100%" alt="Cyberpunk Header"/>
-</div>
-
-<br>
-
-<div align="center">
-  <h1 align="center">JESÚS EMANUEL VERDINI</h1>
-  <h3 align="center">Desarrollador de Software | IA & Cloud Engineer</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=JESÚS+EMANUEL+VERDINI;ADVANCED+SOFTWARE+ENGINEER;AI+%26+BACKEND+SPECIALIST" alt="Typing SVG" />
 </div>
 
 <p align="center">
-    <a href="https://github.com/pipo508"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:verdini.jesus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
+<strong>SISTEMA DE INICIALIZACIÓN</strong> 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 </p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left">
-  <strong>Estudiante avanzado de Ingeniería en Informática</strong> en la Universidad de Mendoza. <br><br>
-  Mi enfoque es la construcción de <strong>soluciones de software escalables y resilientes</strong>, especializándome en la intersección entre el <strong>desarrollo backend, la inteligencia artificial y la arquitectura en la nube</strong>. <br><br>
-  Actualmente estoy desarrollando un <strong>chatbot con IA</strong> para automatizar procesos complejos, aplicando principios de diseño robustos y las últimas tecnologías del ecosistema de OpenAI.
-</p>
-
+<pre align="center">
+┌──────────────────────────────────────────────────────────────────┐
+│  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗███╗   ██╗│
+│ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██║   ██║████╗  ██║│
+│ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║██╔██╗ ██║│
+│ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║██║╚██╗██║│
+│ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║     ╚██████╔╝██║ ╚████║│
+│  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝│
+└──────────────────────────────────────────────────────────────────┘
+</pre>
 <div align="center">
-  <img src="https://media.giphy.com/media/Iu5oAV0oNqIQUa2t2N/giphy.gif" width="200px" height="10px"/>
+<p align="left" style="margin-left: 15%;">
+>_ <strong>Estudiante de 5º año de Ingeniería en Informática</strong> en la Universidad de Mendoza.<br>
+>_ Especializado en la arquitectura de <strong>sistemas backend y cloud</strong>.<br>
+>_ Apasionado por la creación de soluciones con <strong>Inteligencia Artificial</strong>.
+</p>
 </div>
 
-<h2 align="center">Tecnologías y Herramientas</h2>
-
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
+<strong>MATRIZ DE COMPETENCIAS TÉCNICAS</strong>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+</p>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -66,10 +67,6 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
@@ -86,30 +83,55 @@
       <br>OpenAI
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-actions-icon.svg" alt="icon" width="65" height="65" />
       <br>Actions
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Iu5oAV0oNqIQUa2t2N/giphy.gif" width="200px" height="10px"/>
-</div>
-
-<h2 align="center">Estadísticas de Actividad</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pipo508&show_icons=true&include_all_commits=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFF&bg_color=0D1117" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipo508&langs_count=8&layout=compact&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFF&bg_color=0D1117" alt="Lenguajes más usados" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pipo508&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF" alt="Racha de Contribuciones" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Iu5oAV0oNqIQUa2t2N/giphy.gif" width="200px" height="10px"/>
-</div>
-
-<h2 align="center">Principios y Arquitectura</h2>
 <p align="center">
-  <code>SCRUM</code> | <code>SOLID</code> | <code>KISS</code> | <code>DRY</code> | <code>YAGNI</code> | <code>MVC</code> | <code>CIRCUIT BREAKER</code> | <code>REPOSITORY PATTERN</code> | <code>SINGLETON</code>
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> 
+<strong>ARQUITECTURA DE DESARROLLO</strong>
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px">
 </p>
+<pre align="center">
+┌─ DESIGN PATTERNS ──────────────────────────────────────────────────┐
+│  ⚡ SOLID PRINCIPLES     │  🔄 CIRCUIT BREAKER    │  🏗️ REPOSITORY PATTERN  │
+│  💎 KISS METHODOLOGY    │  🛡️ BULKHEAD PATTERN   │  🎯 MVC ARCHITECTURE    │
+│  🔥 DRY PROGRAMMING     │  📊 SCRUM FRAMEWORK    │  ⚙️ CLEAN CODE         │
+└────────────────────────────────────────────────────────────────────┘
+</pre>
+
+<p align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> 
+<strong>PROYECTO ACTUAL: CHATBOT AI AVANZADO</strong>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px">
+</p>
+
+```python
+class Cybernetic_AI_Chatbot:
+    def __init__(self):
+        self.name = "AI Automation Core"
+        self.developer = "Jesús Emanuel Verdini"
+        self.purpose = "Automate complex backend processes via NLP"
+        self.tech_stack = {
+            "neural_core": "OpenAI",
+            "backend_interface": "Flask",
+            "async_handler": "asyncio",
+            "document_parser": "PyPDF2",
+            "ocr_engine": "Custom"
+        }
+
+    def initialize_system(self):
+        print("[+] System Initialized. AI Core is online.")
+        return True
+
+    def run_automation(self, task):
+        print(f"[*] Executing task: {task}...")
+        response = self.tech_stack["neural_core"].process(task)
+        print(f"[✔] Task completed. Response: {response}")
+        return response
