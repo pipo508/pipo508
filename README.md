@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img align="left" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Coding Illustration" width="300">
+  <img align="left" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Coding Illustration" width="600">
   <br>
   <br>
   
