@@ -4,7 +4,7 @@
 
 <br>
 
-<table width="100%">
+<table width="100% style="border-color: black;">
   <tr>
     <td width="40%" align="center">
       <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Coding Illustration" width="300">
@@ -308,3 +308,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagen completa" width="100% height="5%>
+
+
