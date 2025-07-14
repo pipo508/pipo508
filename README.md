@@ -42,7 +42,7 @@
       <br>Java
     </td>
     <td align="center" width="96" style="border: 1px solid #000000;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="icon" width="65" height="65" />
+      <img src="assets/flask.png" alt="icon" width="65" height="65" />
       <br>Flask
     </td>
     <td align="center" width="96" style="border: 1px solid #000000;">
@@ -134,7 +134,7 @@
 <table align="center" style="border: 2px solid #000000;">
   <tr>
     <td align="center" width="96" style="border: 1px solid #000000;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="icon" width="65" height="65" />
+      <img src="assets/openai.png" alt="icon" width="65" height="65" />
       <br>OpenAI
     </td>
     <td align="center" width="96" style="border: 1px solid #000000;">
@@ -155,7 +155,7 @@
 <table align="center" style="border: 2px solid #000000;">
   <tr>
     <td align="center" width="96" style="border: 1px solid #000000;">
-      <img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="icon" width="65" height="65" />
+      <img src="assets/http.png" alt="icon" width="65" height="65" />
       <br>REST / API
     </td>
     <td align="center" width="96" style="border: 1px solid #000000;">
@@ -163,7 +163,7 @@
       <br>Microservices
     </td>
     <td align="center" width="96" style="border: 1px solid #000000;">
-      <img src="https://blogs.zeiss.com/digital-innovation/de/wp-content/uploads/sites/2/2015/04/201504_Test_Driven_Development_2_neu_fi.png" alt="icon" width="65" height="65" />
+      <img src="assets/tdd.png" alt="icon" width="65" height="65" />
       <br>TDD
     </td>
     <td align="center" width="96" style="border: 1px solid #000000;">
@@ -177,8 +177,7 @@
       <br>CI/CD
     </td>
     <td align="center" width="96" style="border: 1px solid #000000;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" alt="icon" width="65" height="65" />
-      <br>JWT / OAuth
+        <img src="assets/jwt.png" alt="icon" width="65" height="65" />      <br>JWT / OAuth
     </td>
     <td align="center" width="96" style="border: 1px solid #000000;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hexo/hexo-original.svg" alt="icon" width="65" height="65" />
